@@ -1,0 +1,32 @@
+{
+  "name": "discordbot-discord.js-v14",
+  "version": "1.0.0",
+  "description": "Template base bot for discord.js@v14",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "nodemon src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfr3XD/discordbot-discord.js-v14.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "template",
+    "base"
+  ],
+  "author": "Alfr3XD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alfr3XD/discordbot-discord.js-v14/issues"
+  },
+  "homepage": "https://github.com/Alfr3XD/discordbot-discord.js-v14#readme",
+  "dependencies": {
+    "discord.js": "^14.0.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.19"
+  }
+}
